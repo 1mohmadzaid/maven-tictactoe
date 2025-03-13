@@ -22,7 +22,7 @@
         </repository>
     </repositories> -->
 
-    <distributionManagement>
+<!--    <distributionManagement>
 
         <snapshotRepository>
             <id>zaid-host</id>
@@ -32,7 +32,7 @@
             <id>zaid-host</id>
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement>  -->
 
     <profiles>
         <!-- Development Profile -->
